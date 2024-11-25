@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Privacy Policy
 layout: home
 ---
 
